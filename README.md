@@ -11,7 +11,7 @@
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkarchevskyi&layout=compact&theme=merko)
 </p>
 <p align="left">
-  <a href="https://www.codewars.com/users/Vova%20Karchevskyi">
-    <img src="https://www.codewars.com/users/Vova%20Karchevskyi/badges/large">
+  <a href="https://www.codewars.com/users/vkarchevskyi">
+    <img src="https://www.codewars.com/users/vkarchevskyi/badges/large">
   </a>
 </p>
