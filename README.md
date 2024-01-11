@@ -3,9 +3,6 @@
 <h2 align="left">My github stats 👀</h2>
 <img src="https://raw.githubusercontent.com/vkarchevskyi/vkarchevskyi/gh-pages/rei.gif" alt="rei" align="right" width="300" height="228">
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vkarchevskyi&theme=merko" alt="GitHub Streak" /></a>
-</p>
-<p align="left">
   
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkarchevskyi&layout=compact&theme=merko)
 </p>
