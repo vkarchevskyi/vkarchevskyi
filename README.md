@@ -1,7 +1,23 @@
-<h1>I'm full-Stack developer, who 💚 TALL stack</h1>
+<h1>I'm a full-Stack developer ☮️</h1>
 
-<h2 align="left">My github stats 👀</h2>
+```php
+$me = User::query()->where('slug', '=', 'vkarchevskyi')->first()->toArray();
+dump($me);
+
+[
+  'id' => 1,
+  'slug' => 'vkarchevskyi',
+  'first_name' => 'Volodymyr',
+  'second_name' => 'Karchevskyi',
+  'technology' => [
+    'backend' => ['PHP', 'Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament', 'Docker', 'Heroku'],
+    'frontend' => ['VueJS', 'Angular', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5']
+  ]
+]
+```
+
 <img src="https://raw.githubusercontent.com/vkarchevskyi/vkarchevskyi/gh-pages/rei.gif" alt="rei" align="right" width="300" height="228">
+<br>
 <p align="left">
   
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkarchevskyi&layout=compact&theme=merko)
