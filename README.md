@@ -13,7 +13,7 @@ dump($me);
     'languages' => ['PHP', 'JavaScript'],
     'frameworks' => ['Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament'],
     'databases' => ['MySQL', 'PostgreSQL'],
-    'frontend' => ['VueJS', 'Angular', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5'],
+    'frontend' => ['VueJS', 'Angular', 'jQuery', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5'],
     'other' => ['Docker', 'Heroku'],
   ]
 ]
