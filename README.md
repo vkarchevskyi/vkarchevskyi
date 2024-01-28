@@ -10,8 +10,11 @@ dump($me);
   'first_name' => 'Volodymyr',
   'second_name' => 'Karchevskyi',
   'technology' => [
-    'backend' => ['PHP', 'Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament', 'Docker', 'Heroku'],
-    'frontend' => ['VueJS', 'Angular', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5']
+    'languages' => ['PHP', 'JavaScript'],
+    'frameworks' => ['Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament'],
+    'databases' => ['MySQL', 'PostgreSQL'],
+    'frontend' => ['VueJS', 'Angular', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5'],
+    'other' => ['Docker', 'Heroku'],
   ]
 ]
 ```
