@@ -9,9 +9,9 @@ dump($me);
   'slug' => 'vkarchevskyi',
   'first_name' => 'Volodymyr',
   'second_name' => 'Karchevskyi',
-  'technology' => [
+  'technologies' => [
     'languages' => ['PHP', 'JavaScript'],
-    'frameworks' => ['Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament'],
+    'backend_frameworks' => ['Laravel', 'Symfony', 'Hyperf', 'Livewire', 'Filament'],
     'databases' => ['MySQL', 'PostgreSQL'],
     'frontend' => ['VueJS', 'Angular', 'jQuery', 'TailwindCSS', 'SCSS', 'CSS3', 'HTML5'],
     'other' => ['Docker', 'Heroku'],
