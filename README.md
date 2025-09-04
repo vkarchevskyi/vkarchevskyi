@@ -12,7 +12,7 @@ I’m a Full-Stack Developer passionate about building practical, user-friendly,
 
 ## 📌 Current Focus
 
-* 🌱 Exploring GoLang and low-level
+* 🌱 Exploring GoLang and low-level programming
 * 🛠 Working on Laravel projects
 * 📚 Expanding knowledge in system design, computer science, blockchain, neural networks
 
